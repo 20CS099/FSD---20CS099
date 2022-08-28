@@ -1,0 +1,2 @@
+# FSD---20CS099
+ALL FSD practicals (20CS099)
